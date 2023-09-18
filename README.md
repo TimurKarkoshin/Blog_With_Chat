@@ -18,7 +18,7 @@
 
 ![ezgif com-video-to-gif (1)](https://github.com/TimurKarkoshin/Blog_With_Chat/assets/144448914/04475aa7-0413-4411-9e7a-1a6d90c57eee)
 
-Есть пользователя переадресации на рандомный пост.
+Есть переадресация пользователя на рандомный пост.
 
 ![ezgif com-video-to-gif (2)](https://github.com/TimurKarkoshin/Blog_With_Chat/assets/144448914/915e8b95-63f1-4e88-8f9f-dfcb449b6ce2)
 
@@ -26,7 +26,7 @@
 
 ![Снимок экрана (330)](https://github.com/TimurKarkoshin/Blog_With_Chat/assets/144448914/7f8c2289-7b29-4b0d-94e6-27abcf2e5b9d)
 
-Ну и под финал вишенка на торте чат написанные с использованием acyncio и решением для веб интерфейса pywebio. Данное решение опционально, т.к. оставил его микросерфисом с отдельной активацией. 
+Ну и под финал вишенка на торте: чат написанный с использованием acyncio и решением для веб интерфейса pywebio. Данное решение опционально, т.к. оставил его микросерфисом с отдельной активацией. 
 
 ![ezgif com-video-to-gif (3)](https://github.com/TimurKarkoshin/Blog_With_Chat/assets/144448914/66de0b6c-5ead-45b6-8cff-79257460559f)
 
