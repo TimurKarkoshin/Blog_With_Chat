@@ -1,0 +1,30 @@
+{% extends 'general/base.html' %}
+{% load static %}
+
+{% block content %}
+    <div class="Blog_section layout_padding">
+        <div class="container">
+            <h1 class="services_taital">Be Blog</h1>
+            <p class="school_text">
+                As sly as a fox, as strong as an ox.
+                As fast as a hare, as brave as a bear.
+                As free as a bird, as neat as a word.
+            </p>
+            <div class="school_section layout_padding">
+                <div class="row">
+                    {% for post in object_list %}
+                        <div class="col-lg-4 col-sm-12 col-md-4">
+                            <div class="blog_main">
+                                <div class="image_12"><img src="{{ post.image.url }}" class="image_12" alt="img12">
+                                </div>
+                                <a class="distracted_text" href="{% url "post-detail" post.pk %}">{{ post.title }}</a>
+                                <p class="ipsum_text">{{ post.description }}</p>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+

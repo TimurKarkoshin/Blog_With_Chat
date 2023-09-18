@@ -1,0 +1,52 @@
+{% load static %}
+{% load i18n %}
+
+<div class="footer_section layout_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-sm-12">
+                <div class="footer_text">
+                    <div class="footer_logo"><img src="{% static 'images/logo.png' %}" alt="logo"></div>
+                    <p class="jonson_text">My social networks</p>
+                    <div class="social_icon">
+                        <ul>
+                            <li>
+                                <a href="https://vk.com/kivara"><img src="{% static 'images/vk-icon.png' %}" alt="fb-icon"></a>
+                            </li>
+                            <li>
+                                <a href="https://t.me/Terem4022"><img src="{% static 'images/tg-icon.png' %}" alt="twitter-icon"></a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/TimurKarkoshin"><img src="{% static 'images/git-icon.png' %}" alt="linkedin-icon"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <h5 class="information_text">Info</h5>
+                <p class="many_text_1">
+                    <a class="many_text_1" href="{% url "about" %}">About Us</a>
+                </p>
+            </div>
+            <div class="col-lg-3 col-sm-6">
+                <h5 class="information_text">Helpful Links</h5>
+                <p class="many_text_1">
+                    <a class="many_text_1" href="{% url "post-list" %}">Main page</a>
+                </p>
+                <p class="many_text_1">
+                    <a class="many_text_1" href="{% url "random" %}">Random post</a>
+                </p>
+                <p class="many_text_1">
+                    <a class="many_text_1" href="http://192.168.1.77:8080/">Chat</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="copyright_section">
+    <div class="container">
+        <p class="copyright_text">2023 All Rights Reserved. <a href="https://github.com/TimurKarkoshin?tab=repositories">BeBlogInc</a></p>
+    </div>
+</div>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ecd1dc3-dc9c-4c10-8bbf-05e536b0ff61" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VOU5Kc4opIdyKywlOY3DnIZYGy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;JSON-Groovy.json.groovy&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Blog/BeBlog/fixtures/01-post-fixtures.json&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.django.DjangoModulesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Blog\BeBlog\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Blog\BeBlog\fixtures" />
+      <recent name="C:\Blog\BeBlog\static\images" />
+      <recent name="C:\Blog\BeBlog\static" />
+      <recent name="C:\Blog\BeBlog\templates\general" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.runserver">
+    <configuration name="chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BeBlog/chat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BeBlog/chat/chat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runserver" type="PythonConfigurationType" factoryName="Python">
+      <module name="Blog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Blog\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (Blog)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BeBlog" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BeBlog/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.chat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ecd1dc3-dc9c-4c10-8bbf-05e536b0ff61" name="Changes" comment="" />
+      <created>1694706436185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694706436185</updated>
+      <workItem from="1694706456475" duration="4349000" />
+      <workItem from="1694711297750" duration="360000" />
+      <workItem from="1694711679612" duration="36000" />
+      <workItem from="1694711804421" duration="234000" />
+      <workItem from="1694712054840" duration="583000" />
+      <workItem from="1694712726371" duration="212000" />
+      <workItem from="1694712978053" duration="168000" />
+      <workItem from="1694713164196" duration="49000" />
+      <workItem from="1694713254629" duration="120000" />
+      <workItem from="1694713413690" duration="508000" />
+      <workItem from="1694714244425" duration="383000" />
+      <workItem from="1694714654211" duration="3485000" />
+      <workItem from="1694718197203" duration="36000" />
+      <workItem from="1694718250056" duration="20000" />
+      <workItem from="1694718290820" duration="647000" />
+      <workItem from="1694718964051" duration="117000" />
+      <workItem from="1694719136645" duration="1004000" />
+      <workItem from="1694720184032" duration="409000" />
+      <workItem from="1694720608472" duration="740000" />
+      <workItem from="1694721353756" duration="3000" />
+      <workItem from="1694721439355" duration="147000" />
+      <workItem from="1694721627347" duration="299000" />
+      <workItem from="1694721932623" duration="236000" />
+      <workItem from="1694722260482" duration="1593000" />
+      <workItem from="1694794297541" duration="589000" />
+      <workItem from="1694799816603" duration="4000" />
+      <workItem from="1694849768069" duration="73000" />
+      <workItem from="1694869079487" duration="1193000" />
+      <workItem from="1694870610397" duration="168000" />
+      <workItem from="1694870799747" duration="1655000" />
+      <workItem from="1694872483744" duration="755000" />
+      <workItem from="1694874746113" duration="294000" />
+      <workItem from="1694875077303" duration="1891000" />
+      <workItem from="1694877017620" duration="1141000" />
+      <workItem from="1694878202279" duration="3786000" />
+      <workItem from="1694882247820" duration="1107000" />
+      <workItem from="1694939097064" duration="596000" />
+      <workItem from="1695021650934" duration="6519000" />
+      <workItem from="1695028232372" duration="63000" />
+      <workItem from="1695028313551" duration="421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Blog$chat.coverage" NAME="chat Coverage Results" MODIFIED="1695026393523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BeBlog/chat" />
+    <SUITE FILE_PATH="coverage/Blog$runserver.coverage" NAME="runserver Coverage Results" MODIFIED="1695026397569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BeBlog" />
+  </component>
+</project>

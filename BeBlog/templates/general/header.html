@@ -1,0 +1,35 @@
+{% load static %}
+{% load i18n %}
+
+<div class="header_section">
+    <div class="container-fluid">
+        <nav class="navbar navbar-dark bg-dark">
+            <a class="logo" href="{% url "post-list" %}"><img src="{% static 'images/logo.png' %}" alt="logo"></a>
+            <div class="search_section">
+                <ul>
+                    <li><a href="#">BeBlog@gmail.com</a></li>
+                </ul>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample01"
+                    aria-controls="navbarsExample01" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarsExample01">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url "post-list" %}">Main</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url "about" %}">About us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url "random" %}">Random post</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://192.168.1.77:8080/">Chat</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
